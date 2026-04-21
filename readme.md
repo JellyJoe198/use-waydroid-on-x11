@@ -150,6 +150,16 @@ waydroid session stop
 
 ## Additional Configuration
 
+### Installing and Using Apps on Waydroid
+
+install xyz.apk:  
+`waydroid app install xyz.apk`
+
+run com.foo.bar either by clicking it in the app menu or:  
+`waydroid app launch com.foo.bar`
+
+https://docs.waydro.id/usage/install-and-run-android-applications
+
 ### Hiding Waydroid Apps
 
 Run this script to hide Waydroid apps from the system launcher:
